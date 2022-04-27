@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <IntegrateWithOtherApplication>
+    <Password>zsnF1Gp5LkYS</Password>
+  </IntegrateWithOtherApplication>
+  <ReserveUrlQuery>True</ReserveUrlQuery>
+  <StartDateFiscalYear>4</StartDateFiscalYear>
+  <StartPage>시작페이지</StartPage>
+  <UserServicePort>49702</UserServicePort>
+  <WebSitePort>29776</WebSitePort>
+</ApplicationSettings>

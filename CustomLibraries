@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomLibraries>
+  <UserJSFileList>
+    <Item class="Forguncy.Model.UserJSOrCssFile" assembly="ServerDesignerCommon">
+      <IsLink>True</IsLink>
+      <Name>https://js.tosspayments.com/v1</Name>
+    </Item>
+  </UserJSFileList>
+</CustomLibraries>

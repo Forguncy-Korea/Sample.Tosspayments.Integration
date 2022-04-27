@@ -1,0 +1,293 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 25.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 25.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 35.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      0,
+      1,
+      12,
+      13
+    ],
+    "Count": 14
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 180.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 440.0
+        }
+      }
+    },
+    "InLogicalVisibleIndexes": [
+      6,
+      7
+    ],
+    "Count": 8
+  },
+  "Values": {
+    "5,2": "포건시 : 토스 페이먼츠 연동 및 결제 성공 - success",
+    "7,2": "OrderID",
+    "8,2": "PaymentKey",
+    "9,2": "Amount",
+    "11,3": "결제 완료"
+  },
+  "AttachInfos": {
+    "11,3": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "시작페이지",
+            "PassValues": []
+          }
+        ],
+        "Text": "결제 완료",
+        "TemplateKey": "둥근3D"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "FontSize": 16.0,
+        "HorizontalAlignment": 1
+      },
+      {
+        "FontFamily": 0
+      },
+      {
+        "Background": 2,
+        "FontFamily": 0,
+        "Foreground": 3,
+        "HorizontalAlignment": 1,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "TextIndent": 4,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "Foreground": 4,
+        "TextIndent": 4,
+        "Underline": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "Formatter": 5,
+        "TextIndent": 4,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Center",
+        "#FF0059FF",
+        "Background 1 0",
+        "#FF000000",
+        "#,##0원"
+      ],
+      "Borders": [
+        {
+          "Color": 2
+        }
+      ]
+    },
+    "CellStyles": {
+      "5,2": 0,
+      "5,3": 1,
+      "7,2": 2,
+      "7,3": 3,
+      "8,2": 2,
+      "8,3": 4,
+      "9,2": 2,
+      "9,3": 5,
+      "11,3": 1,
+      "11,4": 1,
+      "11,5": 1,
+      "11,6": 1,
+      "11,7": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "5,2,1,2"
+  ],
+  "BackgroundPictures": [
+    {
+      "DisplayName": "배경 이미지1",
+      "ForguncyPictureName": "unnamed.png",
+      "Transparency": 0.704375,
+      "ForguncyPictureSourceType": 0,
+      "StyleInfo": {
+        "Fill": null
+      },
+      "IsAutomaticFill": false,
+      "Name": "025b7337-1670-46c2-b4e8-4032e02b196b.png",
+      "Location": "3,14",
+      "Size": "155,153"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PageLoadedCommandList": [
+      {
+        "$type": "Forguncy.Model.SetCellPropertyCommand, ServerDesignerCommon",
+        "PropertyItemsList": [
+          {
+            "TargetCells": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=success!orderId"
+            },
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=GETURLQUERYVALUE(\"orderId\")"
+            }
+          },
+          {
+            "TargetCells": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=success!paymentKey"
+            },
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=GETURLQUERYVALUE(\"paymentKey\")"
+            }
+          },
+          {
+            "TargetCells": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=success!amount"
+            },
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=GETURLQUERYVALUE(\"amount\")"
+            }
+          }
+        ]
+      },
+      {
+        "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+        "TableName": "dtTossPaymentsSuccess",
+        "UpdateType": "add",
+        "ShowConfirm": false,
+        "ConfirmText": "데이터를 추가하시겠습니까?",
+        "UpdateValues": [
+          {
+            "ColumnName": "결제일시",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=NOW()"
+            }
+          },
+          {
+            "ColumnName": "OrderID",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=success!orderId"
+            }
+          },
+          {
+            "ColumnName": "PaymentKey",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=success!paymentKey"
+            }
+          },
+          {
+            "ColumnName": "Amount",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=success!amount"
+            }
+          }
+        ]
+      }
+    ],
+    "AuthorizeInfo": {
+      "VisitMode": 7,
+      "AllowVisitedRoles": [
+        "Administrator"
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "orderId",
+      "Formula": "success!$D$8"
+    },
+    {
+      "Name": "paymentKey",
+      "Formula": "success!$D$9"
+    },
+    {
+      "Name": "amount",
+      "Formula": "success!$D$10"
+    }
+  ]
+}//TC8KUXSDo1bhcAXIgjYcxsYqexQNcE4tqTbJ4pKBSo9zG6eFsP8aUcKGwTVqHSWfiKcge4vSbya4ryouybGn0CMVJnn7e2ZJBq1lUSKA8fcNWOSLDFt0ur28cKwL3ElZ3R1+NHw0AZGIXk/vifGM9fWJ1rou8CPZwLZE791mfBwm2xd5vCIJxN68chOCws4N/zXC/vopYcHnEL4hXUsSb7C1FyjzGqrksC2fbYdjmrU76w2OV+Va8ZLVFmwI7ogQr+uAx3Ok0wjvOzWZYEiiLTajrIRgIXSoRcB4UWUl8x4utQtCPRLN7sFRIt9Oe/64LkGFihsdHWtPd1pJivO//HcRzVEgJPaPb5HK3871P2YhdGN8HQFqiopRQBd0JexeY7Kz8SEBC7H1aUDI6Z4tU51R67dPIrS7+Hl5mDxfuYO7zjsNi7i7xLC9XGk4x9HKTTEG6N5Ffa3C3gpj6ad1c+V6ay2zYhIvFcShafCWCUnstUQArvTgEinT1JWDZE1fnuVwqvFbWvllcMoWNN7BNhAvjXCVxQlQDpyVG9zF4T73oPM9tVRdNEuGp5OQOzWpNTmq5ZuHcNfpvC41RYpuBKFUViUU1ff4AesCN6Ftgm0yP4uZu7HAor04xzZ1S/pltOggAilEHrPszphHRyS+2+3xvy/JAV7z7R6DLn56Nd/O1OmlS93ZOWeFLRozIRmzen00j7NcyCfoCUU4w03nN+YcfYJixn+fF/CCz6iLqAAwIzgrEcOxVNRt81J+q7VzGB4/JKKSuQ+7tNTZf08cD79vf8WqZrccL6epKS+RwJHpDb883n5hGrEEHYAkozt3h5AbM5QJTx55Iw+32svnfyPmSmrnPxQ/qXtApi1nr2AMW1qKQcPH7Ce5CzSo2aRG+whfI0tlGdWYTtoBPedh1Q==|920

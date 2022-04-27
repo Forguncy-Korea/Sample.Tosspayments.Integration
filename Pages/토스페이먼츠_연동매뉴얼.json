@@ -1,0 +1,555 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 50.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 195.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "14": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 241.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "16": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 84.0
+        }
+      },
+      "18": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 225.0
+        }
+      },
+      "21": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "22": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "23": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 360.0
+        }
+      },
+      "24": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "25": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "26": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "27": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "28": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 288.0
+        }
+      },
+      "30": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "31": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "32": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "33": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "34": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "35": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 53.0
+        }
+      },
+      "36": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "37": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "38": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "39": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "40": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 50.0
+        }
+      },
+      "41": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "42": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "43": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "44": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "45": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "46": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 399.0
+        }
+      },
+      "47": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "52": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 481.0
+        }
+      },
+      "56": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 155.0
+        }
+      }
+    },
+    "Count": 60,
+    "DefaultSize": 30.0
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "1,1": "토스페이먼츠 - 포건시 연동 매뉴얼",
+    "3,1": "본 매뉴얼은 포건시를 No Code 도구로 이용하시려는 사용자에게는 적합하지 않습니다.",
+    "4,1": "포건시는 No Code로도 충분히 훌륭한 웹서비스를 만들 수 있지만, 타사의 API 및 기능들을 이용하시려는 경우 Low Code 도구로도 활용하실 수 있습니다.",
+    "6,1": "1. 먼저 토스 페이먼츠 웹사이트로 이동합니다.",
+    "7,2": "https://app.tosspayments.com/",
+    "9,1": "2. 연동 테스트를 진행할 예정이므로 개발자 매뉴로 진입합니다. 이후 실제로 상점을 개설하실 때는 \"결제 서비스 신청하기\"로 진입하시면 됩니다.",
+    "12,1": "3. 들어가시면 「클라이언트키」와 「시크릿키」라는 것이 나타나는데요, 이 두 개가 이 페이지에 있다는 걸 기억만 해 두시면 됩니다.",
+    "13,2": "어차피 테스트용이라 이 페이지에 계속 나오므로 딱히 외우시거나 저장하실 필요는 없습니다.",
+    "16,1": "4. 아래 쪽에 있는 결재 연동 가이드로 이동하십시오.",
+    "19,1": "5. 결제 연동 체험하기를 누르시면 테스트할 수 있는 화면과 소스코드가 나옵니다. 우리에게는 소스코드가 필요했습니다.",
+    "22,1": "6. 포건시에 연동하기 위해서는 JavaScript 소스코드를 포건시에서 작동할 수 있게 변경해야 합니다.",
+    "25,1": "7. 포건시는 잡다한 코딩을 하지 않아도 빠르게 웹서비스를 개발할 수 있도록 해주는 로우코딩 도구입니다. ",
+    "26,2": "포건시는 기본적으로 웹 개발도구이므로 포건시의 모든 UI 요소(element)들은 기본적으로 JavaScript로 작동합니다.",
+    "27,2": "그래서 일반 HTML 코드를 조금 변형해야 합니다.",
+    "28,2": "포건시에서 버튼 클릭 시 위 코드를 작동하게 할 것이므로, 원래 소스코드의 클릭-이벤트를 제거하고 그냥 fuction을 호출했습니다.",
+    "31,1": "8. 위 코드를 버튼에 넣고 진행 시 결제가 잘 진행됩니다.",
+    "31,23": "예시",
+    "33,1": "9. 결제 성공/실패를 안내하는 페이지를 생성하고 주소를 입력해 주면 됩니다.",
+    "34,2": "빌더에서는 port가 변동되므로, 포건시에서 타사의 API를 연동하시려는 경우 '포건시 서버'를 이용하시는게 좋습니다.",
+    "37,1": "10. 이제 코딩 없이도/적게해도 쉽게 개발할 수 있는 포건시의 여러 편리 기능들을 이용하여 쇼핑몰 등을 결제 수단과 연동하여 사용하실 수 있습니다.",
+    "40,1": "토스페이먼츠 API 호출 매뉴얼",
+    "42,1": "1. 토스 페이먼츠의 API test 페이지로 이동하여 정보들을 확인합니다.",
+    "43,2": "https://docs.tosspayments.com/reference/test",
+    "45,1": "2. PaymentsKey로 결제조회 API를 보면 인증키와 Payments Key 2개를 입력받아 처리하도록 되어 있습니다.",
+    "48,1": "3. 이때 이용하영 포건시의 명령은 POST 데이터 명령입니다.",
+    "49,2": "① 주소를 입력하고, 호출 형식 GET을 선택합니다.",
+    "50,2": "② 요청 헤더에 Authentication, 그리고 그 내용에 Basic {인증키} 형식으로 입력하시면 됩니다.",
+    "51,3": "이 프로젝트에서는 인증키를 Base64로 인코딩하여 사용하였습니다.",
+    "54,1": "4. API를 호출한 결과는 아래쪽의 \"POST 성공 콜백\", \"POST 오츄 콜백\"에서 만드실 수 있습니다.",
+    "55,2": "본 예제에서는 API 호출 결과를 가져와 웹브라우저 개발자도구 - 콘솔에서 볼 수 있도록 하였습니다."
+  },
+  "AttachInfos": {
+    "7,2": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "URL": "https://app.tosspayments.com/",
+            "PassValues": [],
+            "IsOpenInNewTab": true
+          }
+        ],
+        "Text": "https://app.tosspayments.com/",
+        "ClickMode": 1
+      }
+    },
+    "10,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "01.png"
+      }
+    },
+    "14,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "02.png"
+      }
+    },
+    "17,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "03.png"
+      }
+    },
+    "20,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "04.png"
+      }
+    },
+    "23,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "05.png"
+      }
+    },
+    "29,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "06.png"
+      }
+    },
+    "31,23": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.RunJavaScriptCommand, ServerDesignerCommon",
+            "JavaScript": "var clientKey = 'test_ck_0Poxy1XQL8Ranw6jQjkr7nO5Wmlg';\r\nvar tossPayments = TossPayments(clientKey)\r\n\r\nfunction callTossPayment(keyPayments) {\r\n  tossPayments.requestPayment('카드', {\t\r\n    amount: 15000,\r\n    orderId: '-ux74T7Wu94TzsTSgg9RB',\r\n    orderName: '토스 티셔츠 외 2건',\r\n    customerName: '박토스',\r\n    successUrl: 'https://www.forguncy.co.kr/test.paymentgateway.integration/success',\r\n    failUrl: 'https://www.forguncy.co.kr/test.paymentgateway.integration/fail',\r\n  })\r\n}\r\n\r\ncallTossPayment(tossPayments);\r\n",
+            "ID": "43e0e1ac59c74323ba1b138247872671"
+          }
+        ],
+        "Text": "예시",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "35,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "07.png"
+      }
+    },
+    "43,2": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "URL": "https://docs.tosspayments.com/reference/test",
+            "PassValues": [],
+            "IsOpenInNewTab": true
+          }
+        ],
+        "Text": "https://docs.tosspayments.com/reference/test",
+        "ClickMode": 1
+      }
+    },
+    "46,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "09.png"
+      }
+    },
+    "52,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "08.png"
+      }
+    },
+    "56,2": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0,
+        "ImagePath": "10.png"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontSize": 24.0,
+        "FontWeight": 0
+      },
+      {
+        "Foreground": 1,
+        "Formatter": 2,
+        "Underline": false
+      },
+      {
+        "FontFamily": 3,
+        "FontSize": 16.0,
+        "Formatter": 2
+      },
+      {
+        "Background": 4,
+        "FontFamily": 3,
+        "FontSize": 16.0
+      },
+      {
+        "Background": 4,
+        "FontFamily": 3,
+        "FontSize": 24.0,
+        "FontWeight": 0
+      },
+      {
+        "Foreground": 1,
+        "Formatter": 2,
+        "Underline": true
+      },
+      {
+        "Background": 4
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Bold",
+        "Blue",
+        "[AUTO]General",
+        "Body",
+        "Accent 1 80"
+      ]
+    },
+    "CellStyles": {
+      "1,1": 0,
+      "7,2": 1,
+      "26,2": 2,
+      "27,2": 2,
+      "40,0": 3,
+      "40,1": 4,
+      "40,2": 3,
+      "40,3": 3,
+      "40,4": 3,
+      "40,5": 3,
+      "40,6": 3,
+      "40,7": 3,
+      "40,8": 3,
+      "40,9": 3,
+      "40,10": 3,
+      "40,11": 3,
+      "40,12": 3,
+      "40,13": 3,
+      "40,14": 3,
+      "40,15": 3,
+      "40,16": 3,
+      "40,17": 3,
+      "40,18": 3,
+      "40,19": 3,
+      "40,20": 3,
+      "40,21": 3,
+      "40,22": 3,
+      "40,23": 3,
+      "40,24": 3,
+      "40,25": 3,
+      "40,26": 3,
+      "40,27": 3,
+      "40,28": 3,
+      "40,29": 3,
+      "40,30": 3,
+      "40,31": 3,
+      "40,32": 3,
+      "40,33": 3,
+      "40,34": 3,
+      "40,35": 3,
+      "40,36": 3,
+      "40,37": 3,
+      "40,38": 3,
+      "40,39": 3,
+      "40,40": 3,
+      "40,41": 3,
+      "40,42": 3,
+      "40,43": 3,
+      "40,44": 3,
+      "40,45": 3,
+      "40,46": 3,
+      "40,47": 3,
+      "40,48": 3,
+      "40,49": 3,
+      "40,50": 3,
+      "40,51": 3,
+      "40,52": 3,
+      "40,53": 3,
+      "40,54": 3,
+      "40,55": 3,
+      "40,56": 3,
+      "40,57": 3,
+      "40,58": 3,
+      "40,59": 3,
+      "43,2": 5,
+      "50,2": 2,
+      "51,3": 2
+    },
+    "RowStyles": {
+      "1": 6,
+      "40": 6
+    },
+    "SheetStyle": {
+      "FontFamily": 3,
+      "FontSize": 16.0
+    }
+  },
+  "Spans": [
+    "10,2,1,56",
+    "14,2,1,56",
+    "17,2,1,56",
+    "20,2,1,56",
+    "23,2,1,56",
+    "29,2,1,56",
+    "31,23,1,5",
+    "35,2,1,56",
+    "46,2,1,56",
+    "52,2,1,56",
+    "56,2,1,56"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 7,
+      "AllowVisitedRoles": [
+        "Administrator"
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//3X/gtMsnUD6NXstXIwgGHJI83E7l8XeszCfmcSu42KfmcEBCc6dlnKVvqoHhkjCd87cN1LHOM4zYCXNinv+ji35r3vAZKIL7R+Csh65lJEfghU4FIOzmkFjKewsNBr02K2127vhtUdrE2ijRY2a1o41vnUPa7u6Qv4sxt2cmK3dL/n2kO2XiZqZz/4+PcX+QCa3Xh4cHbaBw4M97cWJ8i+4Npq6PhKtZd4+6cQo4fM2cv+PVUF7qz8pkqLBlaYvgdFicqFWFPfp5FuCOwTvVF/vrzMgYKtH0Hi6br1tRicI3V01ylVYY1nnYNcXJ1AaxKbmIEDZ5+SlM+CEbO+0Etwsjerpppt2/U+o7Ebd8AlxW7i5issJd2gUrZzF+AWndOd+lH0FcRpbN3N7Ge2uVoqk4IyGMkqzguBctbPbaa+Su8Dy0sJEjywH7+gepqwGqsM9k5J16KnxN7iO+laPn9OmovK3vmp+IgpqqLnnuIMHIWudfGLWXscvJLvGvoxj93HMeUVD3HQW2xVvHl/YwFsdVJOQSFmlemiVYN+NATcKbOxbFdY+GzZVaeVKdOg1omZ6UW4Ho6RHf/d6+XSwOYazwlBzq8QmtI9GzqamjCJ6gwDteB+0wrNWn85X3w3pihJbVQB3kDoIR8vt0gC4Fg3tUNtCM1uoIhi0K6JnMQTG1slDhyVQVmtKdmZdEJi8fWsyBbfa2vndGuOb+wTimxEUA3dgyjJ31c302h2/AFK3VAsPQG+ySZ62xrNLfgKyhqqNXWBrZ/vTuWUCxWODOG8XOCJDXbXv6qhD2WzmXbUAH6G55Gz1tIHlGjlwtuyhUZiz8FknqalUfj7uXfLhOFJf1+oi8RUL9oJTLZyUu+6ySNSaLDPPZiEAgyWqsloapdxIj7u4c+9lbVCWoGo/30Q==|920
